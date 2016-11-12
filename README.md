@@ -1,7 +1,11 @@
 # UdaCity-VR course
 
 ## First VR Assignment: Hello World!
-*Author: @theofreybote*
+*Author: @theofreybote* (Theo Freybote)
+
+How long did it take | One thing I liked | What was challenging
+-----------------------|-------------------|-----------------------
+Too immersed to stop the time | Everything! Great intro (non-programmer by training) | Set up & first steps
 
 **Description:**
 
@@ -29,5 +33,3 @@ The user requires **`Unity 5.4.03f`** and an **`Android`** smartphone.
 * Project (P1): includes ProjectSettings, Build folder, Assets (excl GoogleVR & [x]),
 * :three:x **`Android`** phone screenshot
 * Hello World! - ReadMe.md
-
-**Copyright & Licensing Information:**
