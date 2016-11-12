@@ -30,6 +30,6 @@ The user requires **`Unity 5.4.03f`** and an **`Android`** smartphone.
 
 **The following files are included in the submitted zip file:**
 
-* Project (P1): includes ProjectSettings, Build folder, Assets (excl GoogleVR & [x]),
+* Project (P1): includes ProjectSettings, Build folder, Assets
 * :three:x **`Android`** phone screenshot
 * Hello World! - ReadMe.md
